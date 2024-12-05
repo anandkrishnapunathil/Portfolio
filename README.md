@@ -1,5 +1,7 @@
+# To-do List
 To-do list allows users to create, edit, and delete tasks on their to-do list. The application provides a user-friendly interface for managing tasks efficiently.
 
+![Screenshot (15)](https://github.com/user-attachments/assets/7320f4cf-83a9-44d7-965a-d59935016ff7)
 
 
 ## Features
@@ -32,8 +34,8 @@ npm install
 
 4.Set up PostgreSQL database:
 
-Create a new database named todolist.
-Run the SQL script schema.sql in the repository to create the necessary table.
+* Create a new database named todolist.
+* Run the SQL script schema.sql in the repository to create the necessary table.
 
 5.Configure database connection:
 Open index.js and update the database configuration details (user, host, password) to match your PostgreSQL database settings.
